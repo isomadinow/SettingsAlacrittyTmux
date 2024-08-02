@@ -77,7 +77,7 @@
 
 ```sh
 alacritty
-
+```
 # tmux
 
 
