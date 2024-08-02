@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий на ваш компьютер:
 
     ```sh
-    git clone https://github.com/ваш_пользователь/configs.git
+    git clone https://github.com/isomadinow/SettingsAlacrittyTmux.git
     cd configs
     ```
 
@@ -86,7 +86,7 @@ alacritty
 1. Клонируйте репозиторий на ваш компьютер:
 
     ```sh
-    git clone https://github.com/ваш_пользователь/configs.git
+    git clone https://github.com/isomadinow/SettingsAlacrittyTmux.git
     cd configs
     ```
 
